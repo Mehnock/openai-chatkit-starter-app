@@ -7,7 +7,7 @@ export const CREATE_SESSION_ENDPOINT = "/api/create-session";
 
 export const STARTER_PROMPTS: StartScreenPrompt[] = [
   {
-    label: "Welcome of MessageCraft™",
+    label: "Please enter recipients name, what the award is for, who is presenting the award and the date",
     prompt: "Please enter recipients name, what the award is for, who is presenting the award and the date",
     icon: "chevron-right",
   },
