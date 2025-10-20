@@ -15,7 +15,7 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
 
 export const PLACEHOLDER_INPUT = "...";
 
-export const GREETING = "EDCO MessageCraft™!";
+export const GREETING = "EDCO MessageCraft!";
 
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
   color: {
